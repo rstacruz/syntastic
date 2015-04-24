@@ -62,6 +62,7 @@ let s:IGNORE_ERRORS = [
         \ "unescaped & or unknown entity",
         \ "<input> attribute \"type\" has invalid value",
         \ "proprietary attribute \"role\"",
+        \ "proprietary attribute \"default\"",
         \ "proprietary attribute \"aria-activedescendant\"",
         \ "proprietary attribute \"aria-atomic\"",
         \ "proprietary attribute \"aria-autocomplete\"",
